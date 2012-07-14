@@ -1,0 +1,6 @@
+name: UnloadMobs
+main: com.github.secretcraft.java.UnloadMobs
+version: 0.1
+description: Unloads Mobs from Chunks when they are unloaded
+author: sirkarpfen
+website: www.secretcraft.de
